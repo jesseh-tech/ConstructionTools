@@ -1,0 +1,16 @@
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+~$*
+
+# Temp / backup
+*.tmp
+*.bak
+
+# Node (if/when we add a real source build)
+node_modules/
+dist/
+.env
+.env.*
